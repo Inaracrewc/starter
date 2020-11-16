@@ -1,10 +1,5 @@
 voila
 fastai
-pillow
 packaging
 ipywidgets
-bqplot
-ipympl
-ipyvolume
-scipy
-
+pygments
